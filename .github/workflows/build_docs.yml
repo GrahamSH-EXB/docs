@@ -22,7 +22,6 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: ${{ matrix.node }}
-      - run: cd docs/
       - name: Install dependencies
         run: yarn --cwd ./docs
       - name: Generate
