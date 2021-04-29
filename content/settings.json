@@ -2,7 +2,7 @@
   "title": "Docs",
   "url": "https://1host.js.org/",
   "github": {
-    "repo": "1hostjs/hosting",
+    "repo": "1hostjs/docs",
     "apiUrl": "https://api.github.com/repos"
   },
   "header": {
