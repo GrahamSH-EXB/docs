@@ -11,6 +11,6 @@
     "docus": "^0.1.5",
     "nuxt": "^2.15.6",
     "postcss": "8.2.13",
-    "tailwindcss": "^2.1.2"
+    "tailwindcss": "^2.1.4"
   }
 }
